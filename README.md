@@ -1,1 +1,1 @@
-# CursoIntroductorioR-Ejercicios
+# Curso Introductorio a R (Ejercicios)
