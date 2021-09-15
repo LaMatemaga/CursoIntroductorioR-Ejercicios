@@ -10,4 +10,4 @@ En este repositorio encontrarás los ejercicios de clase y de tarea que se utili
 - **Clase 3:** Vectores. Incluye:
     - Ejercicios de clase (añadidos el 13 de septiembre)
 - **Clase 4:** Matrices y Arreglos. Incluye:
-    - Ejercicios de clase (añadidos el 13 de septiembre)
+    - Ejercicios de clase (añadidos el 15 de septiembre)
