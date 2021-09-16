@@ -11,3 +11,5 @@ En este repositorio encontrarás los ejercicios de clase y de tarea que se utili
     - Ejercicios de clase (añadidos el 13 de septiembre)
 - **Clase 4:** Matrices y Arreglos. Incluye:
     - Ejercicios de clase (añadidos el 15 de septiembre)
+- **Clase 5:** Dataframes. Incluye:
+    - Ejercicios de clase (añadidos el 15 de septiembre)
