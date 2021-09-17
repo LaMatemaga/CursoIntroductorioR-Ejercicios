@@ -18,3 +18,5 @@ En este repositorio encontrarás los ejercicios de clase y de tarea que se utili
 - **Clase 5:** Dataframes. Incluye:
     - Diapositivas de clase (añadidas el 15 de septiembre)
     - Ejercicios de clase (añadidos el 15 de septiembre)
+- **Clase 6:** Listas. Incluye:
+    - Ejercicios de clase (añadidos el 17 de septiembre)
