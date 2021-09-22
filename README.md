@@ -19,4 +19,10 @@ En este repositorio encontrarás los ejercicios de clase y de tarea que se utili
     - Diapositivas de clase (añadidas el 15 de septiembre)
     - Ejercicios de clase (añadidos el 15 de septiembre)
 - **Clase 6:** Listas. Incluye:
+    - Diapositivas de clase (añadidas el 22 de septiembre)
     - Ejercicios de clase (añadidos el 17 de septiembre)
+- **Clase 7:** Condicionales. Incluye:
+    - Diapositivas de clase (añadidas el 22 de septiembre)
+    - Ejercicios de clase (añadidos el 22 de septiembre)
+- **Clase 8:** Ciclos. Incluye:
+    - Diapositivas de clase (añadidas el 22 de septiembre)
