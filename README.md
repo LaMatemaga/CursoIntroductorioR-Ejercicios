@@ -26,3 +26,4 @@ En este repositorio encontrarás los ejercicios de clase y de tarea que se utili
     - Ejercicios de clase (añadidos el 22 de septiembre)
 - **Clase 8:** Ciclos. Incluye:
     - Diapositivas de clase (añadidas el 22 de septiembre)
+    - Ejercicios de clase (añadidos el 22 de septiembre)
